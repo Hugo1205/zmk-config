@@ -8,6 +8,9 @@ manifest:
     # nice_oled - nice_epaper - dongle_display!view - oled Adapter
     - name: mctechnology17
       url-base: https://github.com/mctechnology17
+    - name: Hugo1205
+      url-base: https://github.com/Hugo1205 
+
   projects:
     - name: zmk
       remote: zmkfirmware
