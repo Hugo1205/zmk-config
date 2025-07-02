@@ -19,7 +19,7 @@ manifest:
       revision: main
     # nice_oled - nice_epaper
     - name: zmk-nice-oled
-      remote: mctechnology17
+      remote: Hugo1205
       revision: main
     # dongle_display!view
     - name: zmk-dongle-display-view
