@@ -60,6 +60,7 @@
         cdi = <0xd2>;
         tcon = <0x22>;
     };
+}
 
 / {
     chosen {
